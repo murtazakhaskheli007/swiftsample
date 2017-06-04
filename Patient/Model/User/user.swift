@@ -17,7 +17,7 @@ class user {
     //var company=userCompany?()
     
     
-    /*
+    
     init(userJson:([String: AnyObject]))
     {
         if let na = userJson["first_name"]
@@ -25,9 +25,6 @@ class user {
             self.name = na as! String;
         }
         
-            
-            
-            
         //self.name       =   userJson["first_namee"] as! String
         self.username   =   userJson["username"] as! String
         self.phone      =   userJson["mobile"] as! String
@@ -36,5 +33,4 @@ class user {
         //self.address    =   userAddress(addressJson:userJson["address"])
         //self.company    =   userCompany(companyJson:userJson["company"])
     }
-     */
 }
