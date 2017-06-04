@@ -1,0 +1,21 @@
+PODS:
+  - Alamofire (4.4.0)
+  - ReachabilitySwift (3)
+  - SideMenu (2.3.2)
+  - SVProgressHUD (2.1.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.4)
+  - ReachabilitySwift (~> 3)
+  - SideMenu
+  - SVProgressHUD
+
+SPEC CHECKSUMS:
+  Alamofire: dc44b1600b800eb63da6a19039a0083d62a6a62d
+  ReachabilitySwift: f5b9bb30a0777fac8f09ce8b067e32faeb29bb64
+  SideMenu: 3fa07dd05d4bade2b6f9889fb1877e312e1ba319
+  SVProgressHUD: c404a55d78acbeb7ebb78b76d3faf986475a6994
+
+PODFILE CHECKSUM: de537064dcc3c6b357af29087f146b204e052cf9
+
+COCOAPODS: 1.2.1
